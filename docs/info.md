@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I will be using basic concepts of dicrete logic to display 'WAHAB' on 7 segment display
 
 ## How to test
 
