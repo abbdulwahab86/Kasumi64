@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+Wokwi project to display 'WAHAB' on 7 segment display
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
